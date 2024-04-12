@@ -1,0 +1,9 @@
+{
+	"name": "Vamshidatafact774",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "251802b4-b373-49d1-aa1a-1301d938abc6",
+		"tenantId": "b5b2263d-68aa-453e-b972-aa1421410f80"
+	}
+}
